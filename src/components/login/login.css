@@ -15,13 +15,11 @@
     background-size: cover;
     width: 60%;
     height: 100%;
-    /* border: red solid 5px; */
 }
 
 .loginBox{
     width: 40%;
     height: 100%;
-    /* border: red solid 5px; */
     display: block;
     background-color: #f7f7f7;
     padding: 173px 55px 55px;
