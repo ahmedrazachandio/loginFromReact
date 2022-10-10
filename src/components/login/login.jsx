@@ -10,7 +10,12 @@ function Login() {
         <div className="loginBox">
             <span className="textLogin">Login to continue</span>
             <div className="emailBox">
-                <input type="email" name="name" className="inputEmail" />
+                <span>Email</span>
+                <input type="email" name="name" className="inputEmail"  />
+            </div>
+            <div className="passwordBox">
+                <span>Password</span>
+                <input type="password" name="name" className="inputPassword"  />
             </div>
         </div>
       </div>

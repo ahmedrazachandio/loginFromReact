@@ -32,9 +32,33 @@
 }
 
 .emailBox{
-    
+    /* border: #333 solid 1px; */
+    border: #e6e6e6 solid 0.5px;
+    border-radius: 10px;
+    width: 70%;
+
 }
 
 .inputEmail{
+    padding: 10px 50px;
+    background-color: #f7f7f7 ;
+    border: none;
+    outline: none;
+
+}
+
+.passwordBox{
+    /* border: #333 solid 1px; */
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+    width: 70%;
+
+}
+
+.inputPassword{
+    padding: 10px 50px;
+    background-color: #f7f7f7 ;
+    border: none;
+    outline: none;
 
 }
