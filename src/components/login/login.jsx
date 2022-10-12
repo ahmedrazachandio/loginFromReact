@@ -17,6 +17,7 @@ function Login() {
                 <span>Password</span>
                 <input type="password" name="name" className="inputPassword"  />
             </div>
+                <button>Submit</button>  
         </div>
       </div>
     );
